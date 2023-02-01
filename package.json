@@ -1,0 +1,12 @@
+{
+  "name": "nscc-w0458329-func-week3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
